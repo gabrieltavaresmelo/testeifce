@@ -4,6 +4,7 @@ CAMINHO_IMAGENS=~/Downloads/imagens-livros
 cd $CAMINHO_IMAGENS
 
 echo "SCRIPT DE CONVERSAO DE IMAGENS"
+echo "AUTOR: GABRIEL TAVARES"
 
 for imagem in *.jpg
 do
