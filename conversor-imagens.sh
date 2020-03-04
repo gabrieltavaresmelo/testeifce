@@ -3,6 +3,8 @@
 CAMINHO_IMAGENS=~/Downloads/imagens-livros
 cd $CAMINHO_IMAGENS
 
+echo "SCRIPT DE CONVERSAO DE IMAGENS"
+
 for imagem in *.jpg
 do
 	echo $imagem
